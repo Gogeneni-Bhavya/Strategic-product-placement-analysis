@@ -216,8 +216,12 @@ The demonstration includes:
     |-- Performance Testing
     |   |-- Performance Testing Template.pdf
     |
-    |-- static
-    |
+    |-- vendor
+    |-- css
+    |-- img
+    |-- js
+    |-- scss
+    
     |-- templates
     |
     |-- app.py
