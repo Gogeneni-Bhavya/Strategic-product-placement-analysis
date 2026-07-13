@@ -6,7 +6,7 @@ Strategic Product Placement Analysis is a retail analytics and data visualizatio
 
 The project uses Tableau to transform retail data into interactive visual insights. A Flask and Bootstrap-based web application is used to integrate and present the Tableau Dashboard and Tableau Story in a simple project portfolio.
 
-This project was completed as an individual implementation.
+This project was completed as an group implementation.
 
 ---
 
@@ -238,17 +238,28 @@ The Flask web application provides a centralized interface for accessing the Das
 
 ---
 
-## Individual Project Implementation
+## Group Project Implementation
 
-This project was completed as an individual implementation. Although a group was assigned, the project development, Tableau analysis, dashboard creation, Tableau Story development, Flask web integration, documentation, testing, deployment, and demonstration were completed independently.
-
+This project was completed as an group implementation. Although multiple members were assigned to the group, all team members actively collaborated and contributed throughout the project development period. As a team, we jointly designed, developed, tested, documented, deployed, and organized the entire project. The Tableau dashboard, Tableau Story, Flask web integration, project documentation, testing, and deployment were successfully completed as part of the assigned project work.
 ---
 
 ## Contact
 
-**Madhu Sri**
+**Gogeneni Bhavya**
+Email: bhavyagogeneni@gmail.com
 
-Email: madhusrisomu@gmail.com
+**Naga Pravallika Chilaka**
+Email: chilakanagapravallika@gmail.com
+
+**Karra Mani Roshan**
+Email: karramaniroshan@gmail.com
+
+**Sandeep Korrapati**
+Email: naaperusandeep333@gmail.com
+
+**Kasturi Bhanu**
+Email: kasturibhanu162@gmail.com
+
 
 ---
 
